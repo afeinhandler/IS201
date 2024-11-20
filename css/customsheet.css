@@ -1,0 +1,31 @@
+body {
+    background-color: #e6dbb9;
+}
+
+.listheading {
+    font-family: monospace;
+    color: #6a1a21;
+    font-weight: bolder;
+}
+
+.listbody {
+    color: #253f05;
+}
+
+.italics{
+    font-style: italic;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+a:visited{
+    color: #051695;
+}
